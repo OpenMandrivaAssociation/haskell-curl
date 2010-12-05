@@ -2,7 +2,7 @@
 
 Name: haskell-%{module}
 Version: 1.3.5
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Haskell binding to libcurl
 Group: Development/Other
 License: BSD3
